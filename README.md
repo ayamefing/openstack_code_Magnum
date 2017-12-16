@@ -1,5 +1,11 @@
 OpenStack Magnum 源码分析
 ============
+> 原文：[OpenStack Magnum 源码分析](https://github.com/yeasy/openstack_code_Magnum)
+
+> 作者：[yeasy](https://github.com/yeasy)
+
+> 版本：V0.3: 2015-06-11
+
 [Magnum](https://wiki.openstack.org/wiki/Magnum) 是 OpenStack 项目中负责提供容器即服务（Container as a Service）的组件，它基于 Swarm、Kubernetes 等平台，实现对容器资源的管理。
 
 本书将剖析 Magnum 组件的代码。
